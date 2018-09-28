@@ -2,7 +2,7 @@
 Copyright © 2018 chibayuki@foxmail.com
 
 Windows窗体应用程序模板 (WinFormAppTemplate)
-Version 18.9.24.1700
+Version 18.9.28.2200
 
 This file is part of "Windows窗体应用程序模板" (WinFormAppTemplate)
 

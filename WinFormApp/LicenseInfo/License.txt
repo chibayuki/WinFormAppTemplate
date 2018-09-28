@@ -1,6 +1,6 @@
 ﻿Copyright © 2018 chibayuki@foxmail.com
 
 Windows窗体应用程序模板 (WinFormAppTemplate)
-Version 18.9.24.1700
+Version 18.9.28.2200
 
 "Windows窗体应用程序模板" (WinFormAppTemplate) is released under the GPLv3 license, see GPLv3.txt for more information.
