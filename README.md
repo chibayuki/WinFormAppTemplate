@@ -1,4 +1,4 @@
-# Windows窗体应用程序模板 / WinFormAppTemplate
+# Windows窗体应用程序模板 / WinForm App Template
 基于Com的Windows窗体应用程序模板 / A template of Windows Forms Application based on Com.
 
 ### 许可 / License
